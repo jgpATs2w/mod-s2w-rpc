@@ -1,0 +1,88 @@
+<link rel="stylesheet" type="text/css" href="../../matrix/js/s2w.sqltable.mod.css"/>
+<script type="text/javascript" src="../../log/js/s2w.log.mod.js"></script>
+<script type="text/javascript" src="../../error/js/s2w.error.mod.js"></script>
+<script type="text/javascript" src="../../matrix/js/s2w.sqlmatrix.mod.js"></script>
+<script type="text/javascript" src="../../matrix/js/s2w.sqltable.mod.js"></script>
+<script type="text/javascript" src="s2w.rpc.mod.js"></script>
+<h1>Testing a GET Connection</h1>
+<script>
+s2w.debug = true;
+function rpcGET(){
+	s2w.rpc.onSuccess = function(result){
+		if(result)
+			alert('result: '+result.param);
+		else
+			alert('error: false');
+	}
+	s2w.rpc.get("../php/example_server_get.php?param=hola_get");
+}
+</script>
+<button onclick="rpcGET()">Call Server</button>
+<button onclick="s2w.log.clear()">Clear Log</button>
+
+<h1>Testing an SQL POST Connection</h1>
+Write any sql query on the input box<br>
+<input type="text" value="select * from rpc;" name="params" id="params" onchange="rpcPOST()"/>
+<div id="div_output" style="color:red;">&nbsp;</div>
+<div id="s2w_table_div">&nbsp;</div>
+<script>
+s2w.log.DEBUG = true;
+
+s2w.Table.onCellChanged = function(row, column, value){
+	s2w.log.info(this,'changed'+[row,column,value]);
+	s2w.rpc.onSuccess = function(result){
+		printout('recibido: '+result);
+		
+	}
+	s2w.rpc.onError = function(message){
+		printout(message);
+	}
+	s2w.rpc.post("../php/example_server_post_db.php", "\\s2w\\db\\query",
+				"update rpc set "+column+"='"+value+"' WHERE id="+row);
+}
+s2w.Table.onDelete = function(id){
+	s2w.log.info(this,'deleting'+id);
+	s2w.rpc.onSuccess = function(result){
+		printout('recibido: '+result);
+		s2w.Table.deleteRow(id[0]);
+	}
+	s2w.rpc.onError = function(message){
+		printout(message);
+	}
+	s2w.rpc.post("../php/example_server_post_db.php", "\\s2w\\db\\query",
+				"delete from rpc WHERE id="+id[1]);
+}
+//recommended declare the url before is called
+s2w.rpc.url = "../php/example_server_post_db.php";
+function rpcPOST(){
+	s2w.rpc.onSuccess = function(result){
+		if(typeof result == "object"){
+			s2w.Matrix = new s2w.SQLMatrix(result);		
+			printout('recibida matriz '+s2w.Matrix.rows+'x'+s2w.Matrix.cols+'.');
+			s2w.Table.render();
+		}else
+			printout('recibido: '+result);
+		
+	}
+	s2w.rpc.onError = function(message){
+		printout(message);
+	}
+	params = document.getElementById('params').value;
+	/**
+	 * Very important!! the method must be fully qualified, so starting with |, and:
+	 * 		- If The string is written directly in script it requires the double char '\\'
+	 * 		- If the string is wirten in the input, does not need the ||, just simple, as in the example.
+	 * This will load the module automatically
+	 */
+	
+	s2w.rpc.dbQuery(params);
+	//s2w.rpc.post("../php/example_server_post_db.php", method, params);
+}
+
+function printout(m){
+	document.getElementById('div_output').innerHTML = m;
+}
+</script>
+
+<button onclick="rpcPOST()">Call POST</button>
+<button onclick="s2w.Table.render();">Show Table</button>

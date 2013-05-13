@@ -1,0 +1,475 @@
+1364639683|info|rpc_example_db#
+1364639885|info|rpc_example_db#0
+1364640004|info|rpc_example_db#0
+1364640059|info|rpc_example_db#request function \s2w\db\query
+1364640118|info|rpc_example_db#request function \s2w\db\query
+1364640329|info|rpc_example_db#request function \s2w\db\query
+1364640383|debug|rpc_example_db#request function \s2w\db\query
+1364640433|debug|rpc_example_db#request function \s2w\db\query
+1364640433|debug|rpc_example_db#request parameters select * from main
+1364640464|debug|rpc_example_db#request function \s2w\db\query
+1364640464|debug|rpc_example_db#request parameters select * from main
+1364640464|debug|rpc_example_db#select * from main
+1364640654|debug|rpc_example_db#request function \s2w\db\query
+1364640654|debug|rpc_example_db#request parameters select * from main
+1364640654|debug|rpc_example_db#query select * from main
+1364640792|debug|rpc_example_db#request function \s2w\db\query
+1364640792|debug|rpc_example_db#request parameters select * from main
+1364640792|debug|rpc_example_db#query select * from main
+1364641322|debug|rpc_example_db#request function \s2w\db\query2array
+1364641322|debug|rpc_example_db#request parameters select * from main
+1364641322|debug|rpc_example_db#query select * from main
+1364642520|debug|rpc_example_db#request function \s2w\db\query2array
+1364642520|debug|rpc_example_db#request parameters select * from main
+1364642520|debug|rpc_example_db#query select * from main
+1364642590|debug|rpc_example_db#request function \s2w\db\query2array
+1364642590|debug|rpc_example_db#request parameters select * from main
+1364642590|debug|rpc_example_db#query select * from main
+1364642594|debug|rpc_example_db#request function \s2w\db\query2array
+1364642594|debug|rpc_example_db#request parameters select * from main
+1364642594|debug|rpc_example_db#query select * from main
+1364642856|debug|rpc_example_db#request function \s2w\db\query2array
+1364642856|debug|rpc_example_db#request parameters select * from main
+1364642856|debug|rpc_example_db#query select * from main
+1364642881|debug|rpc_example_db#request function \s2w\db\query2array
+1364642881|debug|rpc_example_db#request parameters select * from main
+1364642881|debug|rpc_example_db#query select * from main
+1364642909|debug|rpc_example_db#request function \s2w\db\query2array
+1364642909|debug|rpc_example_db#request parameters select * from main
+1364642909|debug|rpc_example_db#query select * from main
+1364648662|debug|example_server_post_db#request function \s2w\db\query2array
+1364648662|debug|example_server_post_db#request parameters select * from main
+1364648662|debug|example_server_post_db#query select * from main
+1364661546|debug|example_server_post_db#request function \s2w\db\query2array
+1364661546|debug|example_server_post_db#request parameters select * from main
+1364661546|debug|example_server_post_db#query select * from main
+1364661608|debug|example_server_post_db#request function \s2w\db\query2array
+1364661608|debug|example_server_post_db#request parameters select * from main
+1364661608|debug|example_server_post_db#query select * from main
+1364661655|debug|example_server_post_db#request function \s2w\db\query2array
+1364661655|debug|example_server_post_db#request parameters select * from main
+1364661655|debug|example_server_post_db#query select * from main
+1364661727|debug|example_server_post_db#request function \s2w\db\query2array
+1364661727|debug|example_server_post_db#request parameters select * from main
+1364661727|debug|example_server_post_db#query select * from main
+1364661843|debug|example_server_post_db#request function \s2w\db\query2array
+1364661843|debug|example_server_post_db#request parameters select * from main
+1364661843|debug|example_server_post_db#query select * from main
+1364661862|debug|example_server_post_db#request function \s2w\db\query2array
+1364661862|debug|example_server_post_db#request parameters select * from main
+1364661862|debug|example_server_post_db#query select * from main
+1364661925|debug|example_server_post_db#request function \s2w\db\query2array
+1364661925|debug|example_server_post_db#request parameters select uname,poema from main
+1364661925|debug|example_server_post_db#query select uname,poema from main
+1364662000|debug|example_server_post_db#request function \s2w\db\query2array
+1364662000|debug|example_server_post_db#request parameters select uname,poema from main
+1364662000|debug|example_server_post_db#query select uname,poema from main
+1364662081|debug|example_server_post_db#request function \s2w\db\query2array
+1364662081|debug|example_server_post_db#request parameters select uname,poema from main
+1364662081|debug|example_server_post_db#query select uname,poema from main
+1364663287|debug|example_server_post_db#request function \s2w\db\query2array
+1364663287|debug|example_server_post_db#request parameters select * from main
+1364663287|debug|example_server_post_db#query select * from main
+1364663313|debug|example_server_post_db#request function \s2w\db\query2array
+1364663313|debug|example_server_post_db#request parameters select * from main where uname='eleuteron';
+1364663313|debug|example_server_post_db#query select * from main where uname='eleuteron';
+1364664326|debug|example_server_post_db#request function \s2w\db\query2array
+1364664326|debug|example_server_post_db#request parameters select * from main;
+1364664326|debug|example_server_post_db#query select * from main;
+1364664381|debug|example_server_post_db#request function \s2w\db\query2array
+1364664381|debug|example_server_post_db#request parameters select * from main;
+1364664381|debug|example_server_post_db#query select * from main;
+1364672526|debug|example_server_post_db#request function \s2w\db\query2array
+1364672526|debug|example_server_post_db#request parameters select * from main
+1364672526|debug|example_server_post_db#query select * from main
+1364672685|debug|example_server_post_db#request function \s2w\db\query2array
+1364672685|debug|example_server_post_db#request parameters select * from main
+1364672685|debug|example_server_post_db#query select * from main
+1364672742|debug|example_server_post_db#request function \s2w\db\query2array
+1364672742|debug|example_server_post_db#request parameters select * from main
+1364672742|debug|example_server_post_db#query select * from main
+1364672836|debug|example_server_post_db#request function \s2w\db\query2array
+1364672836|debug|example_server_post_db#request parameters select * from main
+1364672836|debug|example_server_post_db#query select * from main
+1364727955|debug|example_server_post_db#query select * from main
+1364728083|debug|example_server_post_db#query select * from main where uname='eleuteron';
+1364728199|debug|example_server_post_db#query select * from main where uname='eleuteron';
+1364736788|debug|example_server_post_db#query insert into main (uname) values ('testing')
+1364737510|debug|example_server_post_db#query insert into main (uname) values ('testing')
+1364737510|error|example_server_post_db#ERROR on query 'insert into main (uname) values ('testing')'ERROR:  duplicate key value violates unique constraint "main_uname_key"
+1364738435|debug|example_server_post_db#query insert into main (uname) values ('testing')
+1364738435|error|example_server_post_db#ERROR on query 'insert into main (uname) values ('testing')'ERROR:  duplicate key value violates unique constraint "main_uname_key"
+1364738609|debug|example_server_post_db#query insert into main (uname) values ('testing')
+1364738609|error|example_server_post_db#ERROR on query 'insert into main (uname) values ('testing')'ERROR:  duplicate key value violates unique constraint "main_uname_key"
+1364738632|debug|example_server_post_db#query insert into main (uname) values ('testing')
+1364738632|error|example_server_post_db#ERROR on query 'insert into main (uname) values ('testing')'ERROR:  duplicate key value violates unique constraint "main_uname_key"
+1364738672|debug|example_server_post_db#query insert into rpc (key) values ('testing')
+1364738672|error|example_server_post_db#ERROR on query 'insert into rpc (key) values ('testing')'ERROR:  relation "rpc" does not exist
+LINE 1: insert into rpc (key) values ('testing')
+                    ^
+1364738698|debug|example_server_post_db#query insert into rpc (key) values ('testing')
+1364738698|error|example_server_post_db#ERROR on query 'insert into rpc (key) values ('testing')'ERROR:  relation "rpc" does not exist
+LINE 1: insert into rpc (key) values ('testing')
+                    ^
+1364738761|debug|example_server_post_db#query insert into rpc (key) values ('testing')
+1364738761|error|example_server_post_db#ERROR on query 'insert into rpc (key) values ('testing')'ERROR:  relation "rpc" does not exist
+LINE 1: insert into rpc (key) values ('testing')
+                    ^
+1364738781|debug|example_server_post_db#query insert into rpc (key) values ('testing')
+1364738805|debug|example_server_post_db#query insert into rpc (key) values ('testing')
+1364738822|debug|example_server_post_db#query insert into rpc (key) values ('testing')
+1364738907|debug|example_server_post_db#query insert into rpc (key) values ('testing')
+1364739101|debug|example_server_post_db#query insert into rpc (key) values ('testing')
+1364739344|debug|example_server_post_db#query insert into rpc (key) values ('testing')
+1364739373|debug|example_server_post_db#query create table rpc3 (inherits rpc)
+1365103429|debug|example_server_post_db#query select * from main
+1365103429|error|example_server_post_db#ERROR on query 'select * from main'ERROR:  relation "main" does not exist
+LINE 1: select * from main
+                      ^
+1365103435|debug|example_server_post_db#query select * from main
+1365103435|error|example_server_post_db#ERROR on query 'select * from main'ERROR:  relation "main" does not exist
+LINE 1: select * from main
+                      ^
+1365103518|debug|example_server_post_db#query \dt
+1365103518|error|example_server_post_db#ERROR on query '\dt'ERROR:  syntax error at or near "\"
+LINE 1: \dt
+        ^
+1365103554|debug|example_server_post_db#query select * from rpc
+1365103559|debug|example_server_post_db#query select * from rpc
+1365103599|debug|example_server_post_db#query select * from rpc;
+1365103629|debug|example_server_post_db#query select * from rpc;
+1365103939|debug|example_server_post_db#query select * from rpc;
+1365104101|debug|example_server_post_db#query insert into rpc (key, value) values ('algo', 'nuevo');
+1365104101|error|example_server_post_db#ERROR on query 'insert into rpc (key, value) values ('algo', 'nuevo');'ERROR:  invalid input syntax for type real: "nuevo"
+LINE 1: insert into rpc (key, value) values ('algo', 'nuevo');
+                                                     ^
+1365104131|debug|example_server_post_db#query select * from main;
+1365104131|error|example_server_post_db#ERROR on query 'select * from main;'ERROR:  relation "main" does not exist
+LINE 1: select * from main;
+                      ^
+1365104139|debug|example_server_post_db#query select * from rpc;
+1365104303|debug|example_server_post_db#query insert into rpc (key, value) values ('nuevo', 9);
+1365104317|debug|example_server_post_db#query select * from rpc;
+1365104412|debug|example_server_post_db#query select count(key) from rpc;
+1365229258|debug|example_server_post_db#query select * from rpc;
+1365229276|debug|example_server_post_db#query select * from rpc;
+1365229676|debug|example_server_post_db#query select * from rpc;
+1365229739|debug|example_server_post_db#query select * from rpc;
+1365229885|debug|example_server_post_db#query select * from rpc;
+1365231985|debug|example_server_post_db#query select * from rpc;
+1365232418|debug|example_server_post_db#query select * from rpc;
+1365232509|debug|example_server_post_db#query select * from rpc;
+1365232562|debug|example_server_post_db#query select * from rpc;
+1365232675|debug|example_server_post_db#query select * from rpc;
+1365232762|debug|example_server_post_db#query select * from rpc;
+1365232801|debug|example_server_post_db#query select * from rpc;
+1365232864|debug|example_server_post_db#query select * from rpc;
+1365232887|debug|example_server_post_db#query select * from rpc;
+1365232915|debug|example_server_post_db#query select * from rpc;
+1365233120|debug|example_server_post_db#query select * from rpc;
+1365233132|debug|example_server_post_db#query select * from rpc;
+1365233191|debug|example_server_post_db#query select * from rpc;
+1365233208|debug|example_server_post_db#query select * from rpc;
+1365233275|debug|example_server_post_db#query select * from rpc;
+1365233682|debug|example_server_post_db#query select * from rpc;
+1365233878|debug|example_server_post_db#query select * from rpc;
+1365233901|debug|example_server_post_db#query select * from rpc;
+1365234195|debug|example_server_post_db#query select * from rpc;
+1365234217|debug|example_server_post_db#query select * from rpc;
+1365234275|debug|example_server_post_db#query select * from rpc;
+1365234365|debug|example_server_post_db#query select * from rpc;
+1365234677|debug|example_server_post_db#query select * from rpc;
+1365234904|debug|example_server_post_db#query select * from rpc;
+1365240805|debug|example_server_post_db#query select * from rpc;
+1365240823|debug|example_server_post_db#query select * from main;
+1365240823|error|example_server_post_db#ERROR on query 'select * from main;'ERROR:  relation "main" does not exist
+LINE 1: select * from main;
+                      ^
+1365241467|error|index#ERROR on query 'select * from rpc;'
+1365241493|error|index#ERROR on query 'select * from rpc;'
+1365241506|error|index#ERROR on query 'select * from rpc;'
+1365241622|error|index#ERROR on query 'select * from rpc;'
+1365241810|error|index#ERROR on query 'select * from rpc;'
+1365241870|error|index#ERROR on query 'select * from rpc;'
+1365241919|error|index#ERROR on query 'select * from rpc;'
+1365242161|error|index#connection to DB not established.
+1365242231|error|index#connection to DB not established.
+1365242578|debug|index#query select * from rpc;
+1365242594|debug|index#query select * from rpc;
+1365242596|debug|index#query select * from rpc;
+1365242597|debug|index#query select * from rpc;
+1365242705|debug|index#query select * from rpc;
+1365242707|debug|index#query select * from rpc;
+1365243298|debug|index#query select * from rpc;
+1365253123|debug|index#query s
+1365253123|error|index#ERROR on query 's'ERROR:  syntax error at or near "s"
+LINE 1: s
+        ^
+1365253192|debug|index#query select * from rpc;
+1365253251|debug|index#query select * from rpc;
+1365253253|debug|index#query select * from rpc;
+1365253326|debug|index#query select * from rpc;
+1365253344|debug|index#query select * from rpc;
+1365253605|debug|index#query select * from rpc;
+1365253608|debug|index#query select * from rpc;
+1365253610|debug|index#query select * from rpc;
+1365253611|debug|index#query select * from rpc;
+1365253612|debug|index#query select * from rpc;
+1365253613|debug|index#query select * from rpc;
+1365254019|debug|index#query select * from rpc;
+1365254131|debug|index#query select * from rpc;
+1365254164|debug|index#query select * from rpc;
+1365254339|debug|index.php#query select * from rpc;
+1365254481|debug|index.php#query select * from rpc;
+1365254511|debug|index.php#query select * from rpc;
+1365254593|debug|index.php#query select * from rpc;
+1365254642|debug|index.php#query select * from rpc;
+1365254665|debug|index.php#query select * from rpc;
+1365254693|debug|index.php#query select * from rpc;
+1365254770|debug|index.php#query select * from rpc;
+1365254835|debug|index.php#query select * from rpc;
+1365254863|debug|index.php#query select * from rpc;
+1365254895|debug|index.php#query select * from rpc;
+1365254970|debug|index.php#query select * from rpc;
+1365255045|debug|index.php#query select * from rpc;
+1365255068|debug|index.php#query select * from rpc;
+1365255168|debug|index.php#query select * from rpc;
+1365255170|debug|index.php#query select * from rpc;
+1365255240|debug|index.php#query select * from rpc;
+1365255274|debug|index.php#query select * from rpc;
+1365255277|debug|index.php#query select * from rpc;
+1365255278|debug|index.php#query select * from rpc;
+1365255279|debug|index.php#query select * from rpc;
+1365255286|debug|index.php#query select * from rpc;
+1365255385|debug|index.php#query select * from rpc;
+1365255426|debug|index.php#query create table rpc6 inherits rpc;
+1365255426|error|index.php#ERROR on query 'create table rpc6 inherits rpc;'ERROR:  syntax error at or near "inherits"
+LINE 1: create table rpc6 inherits rpc;
+                          ^
+1365258058|debug|index.php#query create table rpc6 inherits rpc;
+1365258058|error|index.php#ERROR on query 'create table rpc6 inherits rpc;'ERROR:  syntax error at or near "inherits"
+LINE 1: create table rpc6 inherits rpc;
+                          ^
+1365258135|debug|index.php#query create table rpc6 inherits rpc;
+1365258135|error|index.php#ERROR on query 'create table rpc6 inherits rpc;'ERROR:  syntax error at or near "inherits"
+LINE 1: create table rpc6 inherits rpc;
+                          ^
+1365258349|debug|example_server_post_db.php#query select * from rpc;
+1365258349|error|example_server_post_db.php#
+1365258506|debug|example_server_post_db.php#query select * from rpc;
+1365258506|error|example_server_post_db.php#
+1365258587|debug|example_server_post_db.php#query select * from rpc;
+1365258587|error|example_server_post_db.php#unknown type returned from query resource
+1365258669|debug|example_server_post_db.php#query select * from rpc;
+1365259346|debug|example_server_post_db.php#query select * from rpc;
+1365259947|debug|example_server_post_db.php#query select * from rpc;
+1365259948|debug|example_server_post_db.php#query select * from rpc;
+1365259960|debug|example_server_post_db.php#query select * from rpc;
+1365259973|debug|example_server_post_db.php#query select * from rpc;
+1365259985|debug|example_server_post_db.php#query select * from main;
+1365259985|error|example_server_post_db.php#ERROR on query 'select * from main;'ERROR:  relation "main" does not exist
+LINE 1: select * from main;
+                      ^
+1365260043|debug|example_server_post_db.php#query select * from main;
+1365260043|error|example_server_post_db.php#ERROR on query 'select * from main;'ERROR:  relation "main" does not exist
+LINE 1: select * from main;
+                      ^
+1365260090|debug|example_server_post_db.php#query select * from main;
+1365260090|error|example_server_post_db.php#ERROR on query 'select * from main;'ERROR:  relation "main" does not exist
+LINE 1: select * from main;
+                      ^
+1365260159|debug|example_server_post_db.php#query select * from main;
+1365260159|error|example_server_post_db.php#ERROR on query 'select * from main;'ERROR:  relation "main" does not exist
+LINE 1: select * from main;
+                      ^
+1365260179|debug|example_server_post_db.php#query select * from rpc;
+1365260214|debug|example_server_post_db.php#query select count(key) from rpc;
+1365260281|debug|example_server_post_db.php#query create table rpcjs (id serial, key varchar(10));
+1365260341|debug|example_server_post_db.php#query insert into rpcjs values (0,'hola');
+1365260361|debug|example_server_post_db.php#query insert into rpcjs values (1,'hola otravez');
+1365260361|error|example_server_post_db.php#ERROR on query 'insert into rpcjs values (1,'hola otravez');'ERROR:  value too long for type character varying(10)
+1365260373|debug|example_server_post_db.php#query insert into rpcjs values (1,'blibli');
+1365260388|debug|example_server_post_db.php#query select * from rpcjs;
+1365260400|debug|example_server_post_db.php#query select * from rpcjs;
+1365260436|debug|example_server_post_db.php#query drop table rpcjs;
+1365260489|debug|example_server_post_db.php#query select * from rpc;
+1365260495|debug|example_server_post_db.php#query select * from rpc;
+1365260702|debug|example_server_post_db.php#query select * from rpc;
+1365260879|debug|example_server_post_db.php#query select * from rpc;
+1365260886|debug|example_server_post_db.php#query update rpc set key='alg' WHERE id=1
+1365260893|debug|example_server_post_db.php#query select * from rpc;
+1365260927|debug|example_server_post_db.php#query select * from rpc;
+1365260942|debug|example_server_post_db.php#query update rpc set key='nuevo key' WHERE id=2
+1365261047|debug|example_server_post_db.php#query select * from rpc;
+1365261064|debug|example_server_post_db.php#query update rpc set value='9888' WHERE id=16
+1365261071|debug|example_server_post_db.php#query select * from rpc;
+1365261134|debug|example_server_post_db.php#query select * from rpc;
+1365261139|debug|example_server_post_db.php#query delete from rpc WHERE id=16
+1365261324|debug|example_server_post_db.php#query select * from rpc;
+1365261334|debug|example_server_post_db.php#query delete from rpc WHERE id=2
+1365261367|debug|example_server_post_db.php#query delete from rpc WHERE id=2
+1365262305|debug|example_server_post_db.php#query select * from rpc;
+1365262343|debug|example_server_post_db.php#query select * from rpc;
+1365262350|debug|example_server_post_db.php#query delete from rpc WHERE id=1
+1365262356|debug|example_server_post_db.php#query delete from rpc WHERE id=1
+1365262378|debug|example_server_post_db.php#query delete from rpc WHERE id=1
+1365262441|debug|example_server_post_db.php#query select * from rpc;
+1365262446|debug|example_server_post_db.php#query delete from rpc WHERE id=15
+1365262450|debug|example_server_post_db.php#query delete from rpc WHERE id=15
+1365262674|debug|example_server_post_db.php#query select * from rpc;
+1365262679|debug|example_server_post_db.php#query delete from rpc WHERE id=14
+1365262788|debug|example_server_post_db.php#query select * from rpc;
+1365262793|debug|example_server_post_db.php#query delete from rpc WHERE id=13
+1365262798|debug|example_server_post_db.php#query delete from rpc WHERE id=13
+1365262801|debug|example_server_post_db.php#query delete from rpc WHERE id=13
+1365262804|debug|example_server_post_db.php#query delete from rpc WHERE id=13
+1365262810|debug|example_server_post_db.php#query delete from rpc WHERE id=13
+1365262813|debug|example_server_post_db.php#query delete from rpc WHERE id=13
+1365262820|debug|example_server_post_db.php#query select * from rpc;
+1365263053|debug|example_server_post_db.php#query select * from rpc;
+1365263063|debug|example_server_post_db.php#query delete from rpc WHERE id=undefined
+1365263063|error|example_server_post_db.php#ERROR on query 'delete from rpc WHERE id=undefined'ERROR:  column "undefined" does not exist
+LINE 1: delete from rpc WHERE id=undefined
+                                 ^
+1365263113|debug|example_server_post_db.php#query select * from rpc;
+1365263117|debug|example_server_post_db.php#query delete from rpc WHERE id=5
+1365263121|debug|example_server_post_db.php#query delete from rpc WHERE id=9
+1365263123|debug|example_server_post_db.php#query delete from rpc WHERE id=12
+1365263141|debug|example_server_post_db.php#query select * from rpc;
+1365263175|debug|example_server_post_db.php#query delete from rpc WHERE id=11
+1365263184|debug|example_server_post_db.php#query select * from rpc;
+1365263191|debug|example_server_post_db.php#query delete from rpc WHERE id=10
+1365263197|debug|example_server_post_db.php#query select * from rpc;
+1365263202|debug|example_server_post_db.php#query delete from rpc WHERE id=7
+1365263205|debug|example_server_post_db.php#query delete from rpc WHERE id=6
+1365263268|debug|example_server_post_db.php#query select * from rpc;
+1365263319|debug|example_server_post_db.php#query insert into rpc (key,value) values ('hello', 88);
+1365263334|debug|example_server_post_db.php#query insert into rpc (key,value) values ('hello', 88);
+1365263355|debug|example_server_post_db.php#query select * from rpc;
+1365263361|debug|example_server_post_db.php#query delete from rpc WHERE id=17
+1365263363|debug|example_server_post_db.php#query delete from rpc WHERE id=18
+1365263381|debug|example_server_post_db.php#query select * from rpc;
+1365263417|debug|example_server_post_db.php#query insert into rpc (key,value) values ('heelo',99);
+1365263432|debug|example_server_post_db.php#query select * from main;
+1365263432|error|example_server_post_db.php#ERROR on query 'select * from main;'ERROR:  relation "main" does not exist
+LINE 1: select * from main;
+                      ^
+1365263449|debug|example_server_post_db.php#query select * from rpc;
+1365263526|debug|example_server_post_db.php#query insert into rpc (key,value) values ('prueba','valor')
+1365263526|error|example_server_post_db.php#ERROR on query 'insert into rpc (key,value) values ('prueba','valor')'ERROR:  invalid input syntax for type real: "valor"
+LINE 1: insert into rpc (key,value) values ('prueba','valor')
+                                                     ^
+1365263536|debug|example_server_post_db.php#query insert into rpc (key,value) values ('prueba','10')
+1365263553|debug|example_server_post_db.php#query insert into rpc (key,value) values ('prueba','11')
+1365264512|debug|example_server_post_db.php#query insert into rpc (key,value) values ('prueba','11')
+1365264557|debug|example_server_post_db.php#query insert into rpc (key,value) values ('prueba','11')
+1365264573|debug|example_server_post_db.php#query select * from rpc;
+1365264581|debug|example_server_post_db.php#query select * from rpc
+1365264651|debug|example_server_post_db.php#query drop table inventada
+1365264651|error|example_server_post_db.php#ERROR on query 'drop table inventada'ERROR:  table "inventada" does not exist
+1365264781|debug|example_server_post_db.php#query drop table inventada
+1365264781|error|example_server_post_db.php#ERROR on query 'drop table inventada'ERROR:  table "inventada" does not exist
+1365264819|debug|example_server_post_db.php#query drop table inventada
+1365264819|error|example_server_post_db.php#ERROR on query 'drop table inventada'ERROR:  table "inventada" does not exist
+1365264886|debug|example_server_post_db.php#query drop table inventada
+1365264886|error|example_server_post_db.php#ERROR on query 'drop table inventada'ERROR:  table "inventada" does not exist
+1365264935|debug|example_server_post_db.php#query drop table inventada
+1365264935|error|example_server_post_db.php#ERROR on query 'drop table inventada'ERROR:  table "inventada" does not exist
+1365264966|debug|example_server_post_db.php#query drop table inventada
+1365264966|error|example_server_post_db.php#ERROR on query 'drop table inventada'ERROR:  table "inventada" does not exist
+1365265126|debug|example_server_post_db.php#query insert into rpc (key,value) values ('hola',99)
+1365265140|debug|example_server_post_db.php#query select * from rpc;
+1365267253|debug|example_server_post_db.php#query select * from rpc;
+1365267314|debug|example_server_post_db.php#query select * from rpc;
+1365267319|debug|example_server_post_db.php#query delete from rpc WHERE id=3
+1365267324|debug|index.php#query create table rpc6 inherits rpc;
+1365267324|error|index.php#ERROR on query 'create table rpc6 inherits rpc;'ERROR:  syntax error at or near "inherits"
+LINE 1: create table rpc6 inherits rpc;
+                          ^
+1365281557|debug|index.php#query create table rpc6 inherits rpc;
+1365281557|error|index.php#ERROR on query 'create table rpc6 inherits rpc;'ERROR:  syntax error at or near "inherits"
+LINE 1: create table rpc6 inherits rpc;
+                          ^
+1365281557|info|index.php#notice [2] Cannot modify header information - headers already sent by (output started at /var/www/mod/s2w/rpc/php/index.php:8)
+1365281568|debug|index.php#query create table rpc6 inherits rpc;
+1365281568|error|index.php#ERROR on query 'create table rpc6 inherits rpc;'ERROR:  syntax error at or near "inherits"
+LINE 1: create table rpc6 inherits rpc;
+                          ^
+1365281863|debug|example_server_post_db.php#query select * from rpc;
+1365281871|debug|example_server_post_db.php#query delete from rpc WHERE id=20
+1365536165|debug|example_server_post_db.php#query select * from rpc;
+1365536175|debug|example_server_post_db.php#query delete from rpc WHERE id=4
+1365536188|debug|example_server_post_db.php#query update rpc set value='56' WHERE id=8
+1365536196|debug|example_server_post_db.php#query select * from rpc;
+1365708869|debug|example_server_post_db.php#query select * from usetest;
+1365708869|error|example_server_post_db.php#ERROR on query 'select * from usetest;'ERROR:  relation "usetest" does not exist
+LINE 1: select * from usetest;
+                      ^
+1365708908|debug|example_server_post_db.php#query select * from admin;
+1365708921|debug|example_server_post_db.php#query select * from eleuteron;
+1365708921|error|example_server_post_db.php#ERROR on query 'select * from eleuteron;'ERROR:  relation "eleuteron" does not exist
+LINE 1: select * from eleuteron;
+                      ^
+1365708963|debug|example_server_post_db.php#query select * from usertest;
+1365709018|debug|example_server_post_db.php#query select id,cuando,que,cuenta from usertest;
+1365709064|debug|example_server_post_db.php#query select id,cuando,que,cuanto,cuenta from usertest;
+1365709242|debug|example_server_post_db.php#query select sum(cuanto) from usertest group by cuenta;
+1365709285|debug|example_server_post_db.php#query select sum(cuanto),cuenta from usertest group by cuenta;
+1365873122|debug|index.php#query create table rpc6 inherits rpc;
+1365873122|error|index.php#ERROR on query 'create table rpc6 inherits rpc;'ERROR:  syntax error at or near "inherits"
+LINE 1: create table rpc6 inherits rpc;
+                          ^
+1365873122|info|index.php#notice [2] Cannot modify header information - headers already sent by (output started at /var/www/mod/s2w/rpc/php/index.php:8)
+1365873187|debug|index.php#query create table rpc6 inherits rpc;
+1365873187|error|index.php#ERROR on query 'create table rpc6 inherits rpc;'ERROR:  syntax error at or near "inherits"
+LINE 1: create table rpc6 inherits rpc;
+                          ^
+1365873187|info|index.php#notice [2] Cannot modify header information - headers already sent by (output started at /var/www/mod/s2w/rpc/php/index.php:8)
+1365873225|debug|index.php#query create table rpc6 inherits rpc;
+1365873225|error|index.php#ERROR on query 'create table rpc6 inherits rpc;'ERROR:  syntax error at or near "inherits"
+LINE 1: create table rpc6 inherits rpc;
+                          ^
+1365873225|info|index.php#notice [2] Cannot modify header information - headers already sent by (output started at /var/www/mod/s2w/rpc/php/index.php:8)
+1365875804|debug|example_server_post_db.php#query select * from rpc;
+1365875804|info|example_server_post_db.php#notice [2] Cannot modify header information - headers already sent by (output started at /var/www/mod/s2w/log/php/s2w.log.mod.php:60)
+1365875811|debug|example_server_post_db.php#query select * from rpc;
+1365875811|info|example_server_post_db.php#notice [2] Cannot modify header information - headers already sent by (output started at /var/www/mod/s2w/log/php/s2w.log.mod.php:60)
+1365875835|debug|example_server_post_db.php#query select * from rpc;
+1365875917|debug|example_server_post_db.php#query select * from rpc;
+1365875926|debug|example_server_post_db.php#query select key from rpc;
+1365875926|debug|example_server_post_db.php#query select key from rpc;
+1365971241|debug|example_server_post_db.php#query select * from rpc;
+1365971248|debug|index.php#query create table rpc6 inherits rpc;
+1365971248|error|index.php#ERROR on query 'create table rpc6 inherits rpc;'ERROR:  syntax error at or near "inherits"
+LINE 1: create table rpc6 inherits rpc;
+                          ^
+1365971248|info|index.php#notice [2] Cannot modify header information - headers already sent by (output started at /var/www/mod/s2w/rpc/php/index.php:8)
+1365971351|debug|example_server_post_db.php#query select * from rpc;
+1365971359|debug|index.php#query create table rpc6 inherits rpc;
+1365971359|error|index.php#ERROR on query 'create table rpc6 inherits rpc;'ERROR:  syntax error at or near "inherits"
+LINE 1: create table rpc6 inherits rpc;
+                          ^
+1365971359|info|index.php#notice [2] Cannot modify header information - headers already sent by (output started at /var/www/mod/s2w/rpc/php/index.php:8)
+1366142793|debug|example_server_post_db.php#query select * from main
+1366142793|error|example_server_post_db.php#ERROR on query 'select * from main'ERROR:  relation "main" does not exist
+LINE 1: select * from main
+                      ^
+1366142817|debug|example_server_post_db.php#query select * from rpc
+1366143029|debug|example_server_post_db.php#query select * from rpc
+1366143058|debug|example_server_post_db.php#query select * from rpc
+1366143589|debug|example_server_post_db.php#query select * from rpc
+1366144030|debug|example_server_post_db.php#query select * from rpc
+1366144094|debug|example_server_post_db.php#query select * from rpc
+1366144156|debug|example_server_post_db.php#query select * from rpc
+1366144181|debug|example_server_post_db.php#query select * from rpc
+1366144314|debug|example_server_post_db.php#query select * from rpc
+1366144340|debug|example_server_post_db.php#query select * from rpc
+1366144567|debug|example_server_post_db.php#query select * from rpc
+1366144632|debug|example_server_post_db.php#query select * from rpc
+1366660711|debug|example_server_post_db.php#query select * from rpc;
+1366660723|debug|index.php#query create table rpc6 inherits rpc;
+1366660723|error|index.php#ERROR on query 'create table rpc6 inherits rpc;'ERROR:  syntax error at or near "inherits"
+LINE 1: create table rpc6 inherits rpc;
+                          ^
+1366660723|info|index.php#notice [2] Cannot modify header information - headers already sent by (output started at /var/www/mod/s2w/rpc/php/index.php:8)
+1367680723|debug|example_server_post_db.php#query select * from rpc;
